@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DATA SCIENTIST</title>
+    <title> DATA SCIENTIST </title>
     <style>
         /* CSS for header */
         .header {
@@ -20,7 +20,8 @@
     <div class="header">
        Technical skills: Python, SQL, Microsoft Power BI, Tableau, Looker
     </div>
-    <!-- ## ABOUT ME
+    <!--
+    ## ABOUT ME
 
 A data scientist with a systematic approach to problem-solving, and a keen interest in predictive analytics. Driven by the idea of digital transformation and its impact on enhancing business efficiency.
 I am intrigued by patterns and enjoy connecting the dots with data. My journey into data analytics began after years of nurturing young minds in the education sector. I am deeply passionate about mentoring and empowering individuals to harness the full potential of technology. 
@@ -38,7 +39,9 @@ Read more:  [Quarterly sales forecast](https://github.com/priscaogu/Quarterly-Sa
 
 ### Websites:
 [LinkedIn](https://www.linkedin.com/in/priscaogu/)
-[Medium Blog](https://medium.com/@chidimma-p-ogu) -->
+[Medium Blog](https://medium.com/@chidimma-p-ogu) 
+
+-->
 </body>
 </html>
 
