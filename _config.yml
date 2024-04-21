@@ -1,0 +1,13 @@
+
+
+style: |
+  body {
+    text-align: center;
+  }
+
+  
+title: CHIDIMMA PRISCA OGU
+logo: "C:\Users\Prisca\Downloads\ATU(MASTERS)\Introduction to Programming and Data Science\ATU - PYTHON\Portfolio\priscaogu.github.io\img\portrait.png"
+description: Data scientists making sense of the world, one data set at a time
+theme: jekyll-theme-minimal
+show_downloads: true
